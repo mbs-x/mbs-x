@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Muhammad%20Baazil&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%7C%20Software%20%7C%20Game%20Development%20%7C%20Cloud%20%7C%20Networking&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0f2027,45:203a43,100:2c5364&text=Muhammad%20Baazil&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=AI%20%7C%20Software%20%7C%20Game%20Development%20%7C%20Cloud%20%7C%20Networking%20%7C%20Automation&descAlignY=59&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;C%2B%2B+%7C+C%23+%7C+Python+%7C+JavaScript+Developer;Unity+%7C+Unreal+Engine+%7C+Blender;Full-Stack+Web+%26+Application+Development;Cloud+%7C+Networking+%7C+Automation;Discord+Bots+%7C+APIs+%7C+Intelligent+Systems;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=23&duration=2400&pause=850&center=true&vCenter=true&width=960&lines=AI+%26+Machine+Learning+Enthusiast;C%2B%2B+%7C+C%23+%7C+Python+%7C+JavaScript+Developer;Unity+%7C+Unreal+Engine+%7C+Blender;Full-Stack+Web+%26+Application+Development;Cloud+%7C+Networking+%7C+Automation;Discord+Bots+%7C+APIs+%7C+Intelligent+Systems;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing headline" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mbs-x&label=PROFILE%20VIEWS&style=for-the-badge)](https://github.com/mbs-x)
 [![Followers](https://img.shields.io/github/followers/mbs-x?style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/mbs-x?tab=followers)
 [![GitHub](https://img.shields.io/badge/GitHub-mbs--x-181717?style=for-the-badge&logo=github)](https://github.com/mbs-x)
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbaazilsulaiman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-baazil/)
 
 ### `Building intelligent software • interactive worlds • useful products`
 
@@ -16,42 +18,122 @@
 
 ---
 
+## 🧭 Developer Command Center
+
+<div align="center">
+
+| 🤖 AI Builder | 🎮 Game Developer | 🌐 Full-Stack Developer | ☁️ Cloud + Networks |
+|:---:|:---:|:---:|:---:|
+| ML • NLP • LLMs | Unity • Unreal • Blender | React • Node • APIs | AWS • TCP/IP • Linux |
+| Speech Systems | C# • C++ • Gameplay | Databases • Auth • UI | DHCP • DNS • Serverless |
+| Automation | 3D Workflows | Web Apps • Dashboards | Monitoring • Deployment |
+
+</div>
+
+```text
+SYSTEM STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+AI / ML                [████████████████████]  ACTIVE FOCUS
+SOFTWARE ENGINEERING   [████████████████████]  CORE
+GAME DEVELOPMENT       [███████████████████░]  ACTIVE
+WEB DEVELOPMENT        [███████████████████░]  ACTIVE
+CLOUD COMPUTING        [████████████████░░░░]  GROWING
+NETWORKING             [███████████████░░░░░]  SOLID BASE
+3D / BLENDER           [█████████████░░░░░░░]  EXPANDING
+AUTOMATION / BOTS      [████████████████░░░░]  ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
 ## 👨‍💻 About Me
 
 I'm **Muhammad Baazil**, a multidisciplinary developer focused on **Artificial Intelligence, software engineering, game development, full-stack web development, cloud computing, networking, automation and 3D workflows**.
 
-I enjoy taking ideas from concept to working product — planning the architecture, writing the code, designing interfaces, connecting APIs, building intelligent workflows and preparing projects for deployment.
+I like working across the complete development lifecycle — **idea → architecture → implementation → UI → integration → testing → deployment**. My strongest motivation is building systems that are not just technically interesting, but actually useful.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I Work On
 
 - 🤖 AI / ML / NLP / LLM-powered systems
-- 🎮 Unity, Unreal Engine, C#, C++ and Blender
-- 🌐 Full-stack websites, dashboards, APIs and web applications
-- ☁️ AWS, cloud architecture and serverless concepts
-- 🌍 Networking fundamentals, TCP/IP, DHCP, DNS and Packet Tracer
-- 🤖 Discord bots, automation systems and API integrations
-- 🧠 DSA, OOP, algorithms, problem solving and software architecture
-- 🐧 Linux / Ubuntu, Git and GitHub workflows
+- 🎙️ Speech-to-text and intelligent workflows
+- 🎮 Unity / Unreal gameplay systems
+- 🧊 Blender and 3D game workflows
+- 🌐 Full-stack websites and dashboards
+- 🔌 REST APIs and backend systems
+- ☁️ AWS and serverless concepts
+- 🌍 Networking fundamentals and labs
+- 🤖 Discord bots and automation
+- 🧠 DSA, OOP and problem solving
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Developer Snapshot
 
 ```yaml
 name: Muhammad Baazil
 username: mbs-x
 role: AI & Software Developer
-focus:
-  - Artificial Intelligence
-  - Software Engineering
+location: Lahore, Pakistan
+current_project: SKMC Scribe
+specialties:
+  - AI / ML / NLP
   - Game Development
   - Full-Stack Development
   - Cloud Computing
   - Networking
   - Automation
-currently_building:
-  - SKMC Scribe
-learning:
-  - Machine Learning
-  - NLP
-  - Cloud Architecture
-  - Production AI Systems
 mindset: "Build. Learn. Improve. Ship."
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ What I Can Build
+
+<div align="center">
+
+| Category | Examples |
+|---|---|
+| 🤖 **AI Systems** | AI assistants, NLP workflows, speech pipelines, structured note generation, LLM integrations |
+| 🎮 **Games & Interactive Apps** | Unity gameplay systems, Android games, Unreal concepts, C# logic, Blender assets |
+| 🌐 **Web Platforms** | Full-stack apps, dashboards, authentication, REST APIs, responsive interfaces |
+| 🔌 **Backend Systems** | Node.js services, Express APIs, databases, CRUD systems, integrations |
+| 🤖 **Bots & Automation** | Discord bots, event-driven workflows, utility bots, API automation |
+| ☁️ **Cloud Systems** | AWS/serverless concepts, storage, monitoring, managed databases, deployments |
+| 🌍 **Networking** | DHCP/DNS labs, Packet Tracer, addressing, routing concepts, troubleshooting |
+
+</div>
+
+---
+
+## 🔄 How I Build
+
+```mermaid
+flowchart LR
+    A[Idea] --> B[Research]
+    B --> C[Architecture]
+    C --> D[Prototype]
+    D --> E[Core Development]
+    E --> F[UI / UX]
+    F --> G[API + Data Integration]
+    G --> H[Testing]
+    H --> I[Deployment]
+    I --> J[Improve + Iterate]
+```
+
+<div align="center">
+
+**Think clearly → build modularly → test realistically → improve continuously**
+
+</div>
 
 ---
 
@@ -69,34 +151,39 @@ mindset: "Build. Learn. Improve. Ship."
 
 ---
 
-## 🧰 Technology Universe
+# 🧰 Technology Universe
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 <p align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,python,js,dart&perline=8" /></p>
 <div align="center"><b>C++ • C# • Python • JavaScript • Dart • SQL • 8086 Assembly fundamentals</b></div>
 
-### 🤖 Artificial Intelligence & Machine Learning
+## 🤖 Artificial Intelligence & Machine Learning
 <p align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8" /></p>
 <div align="center"><b>Artificial Intelligence • Machine Learning • NLP • LLMs • Speech-to-Text • AI Integrations • Intelligent Automation • Prompt Engineering</b></div>
 
-### 🎮 Game Development & 3D
+## 🎮 Game Development & 3D
 <p align="center"><img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs,cpp&perline=8" /></p>
 <div align="center"><b>Unity • Unreal Engine • Blender • Gameplay Programming • Game Systems • Android Builds • 3D Workflows</b></div>
 
-### 🌐 Web & Application Development
+## 🌐 Web & Application Development
 <p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js,flutter,firebase&perline=8" /></p>
 <div align="center"><b>React • Node.js • Express.js • REST APIs • HTML5 • CSS3 • JavaScript • Flutter • Firebase • Responsive Interfaces</b></div>
 
-### 🗄️ Databases & Backend
+## 🗄️ Databases & Backend
 <p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,nodejs&perline=8" /></p>
 <div align="center"><b>MySQL • MongoDB • Mongoose • SQLite • Database Design • CRUD Systems • Backend APIs • Data Modeling</b></div>
 
-### ☁️ Cloud, DevOps & Systems
+## ☁️ Cloud, DevOps & Systems
 <p align="center"><img src="https://skillicons.dev/icons?i=aws,git,github,linux,ubuntu,bash&perline=8" /></p>
 <div align="center"><b>AWS • Git • GitHub • Linux • Ubuntu • Bash • Deployment • Cloud Architecture • Serverless Concepts • CI/CD Concepts</b></div>
-<div align="center">`Lambda` • `Kinesis` • `DynamoDB` • `S3` • `SNS` • `CloudWatch` • `RDS` • `Aurora` • `Redshift`</div>
 
-### 🌍 Networking & Automation
+<div align="center">
+
+`Lambda` • `Kinesis` • `DynamoDB` • `S3` • `SNS` • `CloudWatch` • `RDS` • `Aurora` • `Redshift`
+
+</div>
+
+## 🌍 Networking & Automation
 <div align="center">
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-0078D4?style=for-the-badge)
@@ -125,48 +212,107 @@ mindset: "Build. Learn. Improve. Ship."
 
 I've worked with **binary search, stacks, queues, linked lists, trees, BSTs, AVL trees, recursion, sorting, graph/search algorithms, BFS, DFS, UCS, DLS, IDS, Greedy Best-First Search, A*, IDA*, RBFS, hill climbing and minimax**.
 
+### 🧩 Problem-Solving Mindset
+
+```mermaid
+flowchart TD
+    P[Problem] --> U[Understand Constraints]
+    U --> D[Decompose]
+    D --> A[Choose Algorithm / Architecture]
+    A --> I[Implement]
+    I --> T[Test Edge Cases]
+    T --> O[Optimize]
+    O --> R[Refactor + Document]
+```
+
 ---
 
-## 🩺 Flagship Project — SKMC Scribe
+# 🩺 Flagship Project — SKMC Scribe
 
 <div align="center">
 
-### AI-Powered Clinical Documentation Platform
+## AI-Powered Clinical Documentation Platform
+
 `Healthcare AI` • `Speech-to-Text` • `NLP` • `SOAP Notes` • `Workflow Automation` • `Multilingual Systems`
 
 </div>
 
 **SKMC Scribe** is designed to help healthcare professionals spend less time on documentation and more time focusing on patients.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✨ Core Product Features
+
 - 🎙️ Real-time speech-to-text
 - 🌍 Multilingual transcription workflows
 - 🤖 AI-powered clinical note generation
 - 📋 Structured SOAP documentation
 - 🧩 Customizable clinical templates
-- 📑 Encounter and worklist management
-- ✍️ Clinical review and sign-off workflows
-- 🔄 End-to-end documentation flow
-- 🧠 AI-assisted transformation of conversations into structured notes
-- 🎨 Modern web-based clinical interface
+- 📑 Encounter/worklist management
+- ✍️ Clinical review and sign-off
+- 🔄 End-to-end documentation workflow
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Product Thinking
+
+- Conversation → structured clinical record
+- Human review before finalization
+- Workflow-first design
+- Reusable template system
+- Multilingual capture and output
+- AI assistance without removing clinician control
+- Focus on reducing documentation burden
+
+</td>
+</tr>
+</table>
+
+### 🧭 SKMC Scribe Architecture
 
 ```mermaid
 flowchart LR
-    A[Patient Encounter] --> B[Live Speech Capture]
+    A[Patient Encounter] --> B[Live Audio Capture]
     B --> C[Speech-to-Text]
     C --> D[Language Processing]
     D --> E[AI Clinical Layer]
     E --> F[SOAP / Structured Note]
     F --> G[Clinician Review]
-    G --> H[Final Record]
+    G --> H[Edit / Approve]
+    H --> I[Final Record]
+```
+
+### 🔁 Clinical Workflow
+
+```mermaid
+sequenceDiagram
+    participant C as Clinician
+    participant S as Scribe Platform
+    participant AI as AI Layer
+    participant N as Note Workspace
+
+    C->>S: Start encounter
+    C->>S: Capture conversation
+    S->>AI: Transcription + context
+    AI->>N: Generate structured note
+    N->>C: Present draft
+    C->>N: Review / edit / sign
 ```
 
 ---
 
-## 🏗️ Construction Planning & Cost Estimation System
+# 🏗️ Construction Planning & Cost Estimation System
 
 A software concept focused on **construction planning, material estimation, quality-based costing, budget optimization and supplier-oriented workflows**.
 
-<div align="center">`Flutter` • `Dart` • `Node.js` • `Express.js` • `MongoDB` • `SQLite` • `REST APIs` • `AI-Assisted Budget Optimization` • `PDF Reporting`</div>
+<div align="center">
+
+`Flutter` • `Dart` • `Node.js` • `Express.js` • `MongoDB` • `SQLite` • `REST APIs` • `AI-Assisted Budget Optimization` • `PDF Reporting`
+
+</div>
 
 ```mermaid
 flowchart TD
@@ -180,7 +326,9 @@ flowchart TD
 
 ---
 
-## 🎮 Game Development
+# 🎮 Game Development
+
+<div align="center">
 
 | Engine / Tool | What I Use It For |
 |---|---|
@@ -190,13 +338,35 @@ flowchart TD
 | 💻 **C#** | Unity gameplay scripts, systems and logic |
 | ⚙️ **C++** | Game logic, performance-oriented programming and core CS concepts |
 
+</div>
+
+### 🕹️ Game Development Pipeline
+
+```mermaid
+flowchart LR
+    I[Game Idea] --> M[Mechanics]
+    M --> P[Prototype]
+    P --> G[Gameplay Code]
+    G --> A[Art / 3D Assets]
+    A --> U[UI / UX]
+    U --> T[Testing]
+    T --> B[Build]
+    B --> O[Optimization]
+```
+
+### 🎯 Areas I Explore
+
 `Gameplay Systems` • `Player Mechanics` • `Game Logic` • `UI Systems` • `Android Builds` • `3D Workflows` • `Interactive Systems` • `Multiplayer Concepts`
 
 ---
 
-## ☁️ Cloud & AWS Journey
+# ☁️ Cloud & AWS Journey
+
+<div align="center">
 
 🏆 **AWS Academy Cloud Foundations**
+
+</div>
 
 ```mermaid
 flowchart LR
@@ -213,16 +383,34 @@ My cloud interests include **serverless design, deployment, monitoring, managed 
 
 ---
 
-## 🌍 Networking Knowledge
+# 🌍 Networking Knowledge
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Core Concepts
 - TCP/IP fundamentals
 - DHCP and DNS
 - Client-server communication
-- Network addressing concepts
+- IP addressing concepts
 - Router / access point concepts
-- Packet Tracer labs
-- Network troubleshooting fundamentals
+- Routing & switching fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Practical Work
+- Cisco Packet Tracer labs
+- Network configuration
+- Troubleshooting fundamentals
 - Linux networking concepts
+- LAN/WAN thinking
+- Network-aware application design
+
+</td>
+</tr>
+</table>
 
 ```mermaid
 flowchart LR
@@ -235,15 +423,29 @@ flowchart LR
 
 ---
 
-## 🤖 Discord Bots & Automation
+# 🤖 Discord Bots & Automation
 
 I build and explore **Discord bots and automation workflows** using event-driven programming, commands, APIs and backend logic.
 
+<div align="center">
+
 `Commands` • `Events` • `Moderation Logic` • `Utility Features` • `API Calls` • `Automated Replies` • `Data Storage` • `Workflow Automation`
+
+</div>
+
+```mermaid
+flowchart LR
+    U[User Command] --> B[Discord Bot]
+    B --> L[Command / Event Logic]
+    L --> API[External API]
+    L --> DB[(Data Store)]
+    L --> R[Response / Action]
+    R --> U
+```
 
 ---
 
-## 🗺️ My Development Map
+# 🗺️ My Development Map
 
 ```mermaid
 mindmap
@@ -290,21 +492,34 @@ mindmap
 
 ---
 
-## 📈 Skill Direction
+# 🧭 Learning Roadmap
+
+<div align="center">
+
+| Topic | Direction |
+|---|---|
+| 🤖 Machine Learning | Deeper models, practical pipelines, evaluation |
+| 🧠 NLP / LLMs | Better structured generation, multilingual systems |
+| ☁️ Cloud | More production-grade architecture and deployment |
+| 🎮 Game Systems | Better architecture, gameplay patterns, optimization |
+| 🌐 Full-Stack | Cleaner scalable apps and integrations |
+| 🔐 Backend / Systems | Reliability, security, data flow and architecture |
+
+</div>
 
 ```text
-Artificial Intelligence   ████████████████████░  Deepening
-Software Engineering      ████████████████████░  Core Focus
-Game Development          ███████████████████░░  Strong Interest
-Web Development           ███████████████████░░  Active
-Cloud Computing           ████████████████░░░░░  Growing
-Networking                ███████████████░░░░░░  Solid Foundation
-3D / Blender              █████████████░░░░░░░░  Expanding
+2026 ROADMAP
+AI SYSTEMS          ████████████████████  PRIORITY
+NLP / LLMs          ███████████████████░  PRIORITY
+CLOUD ARCHITECTURE  ████████████████░░░░  GROWING
+GAME SYSTEMS        █████████████████░░░  ACTIVE
+WEB PLATFORMS       █████████████████░░░  ACTIVE
+NETWORKING          ███████████████░░░░░  FOUNDATION
 ```
 
 ---
 
-## 🏅 Developer Highlights
+# 🏅 Developer Highlights
 
 <div align="center">
 
@@ -319,7 +534,7 @@ Networking                ███████████████░░░
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -366,27 +581,30 @@ Networking                ███████████████░░░
 | 👥 **Developer network** | [View followers →](https://github.com/mbs-x?tab=followers) |
 | 🐍 **Contribution history** | Animated continuously by the snake above |
 
-> **Consistency • Progress • Better Code** — the analytics section is designed to grow automatically as my GitHub activity grows.
+> **Consistency • Progress • Better Code** — the analytics section grows automatically with my GitHub activity.
 
 ---
 
-## 🤝 Let's Build Something
-
-I'm open to interesting work and collaboration around:
+# 💼 Collaboration & Opportunities
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/🤖_AI_%26_ML-111827?style=for-the-badge)
-![Games](https://img.shields.io/badge/🎮_Game_Development-111827?style=for-the-badge)
-![Web](https://img.shields.io/badge/🌐_Web_Apps-111827?style=for-the-badge)
-![Health](https://img.shields.io/badge/🩺_Healthcare_Tech-111827?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/☁️_Cloud-111827?style=for-the-badge)
-![Network](https://img.shields.io/badge/🌍_Networking-111827?style=for-the-badge)
-![Bots](https://img.shields.io/badge/🤖_Bots_%26_Automation-111827?style=for-the-badge)
+| I’m interested in | Examples |
+|---|---|
+| 🤖 **AI / ML** | Intelligent applications, LLM integrations, NLP systems |
+| 🎮 **Game Development** | Unity, Unreal, C#, C++, interactive systems |
+| 🌐 **Web Apps** | Full-stack platforms, dashboards, APIs |
+| 🩺 **Healthcare Tech** | Clinical workflows, speech/NLP systems, documentation tools |
+| ☁️ **Cloud** | Serverless systems, deployment, scalable backends |
+| 🌍 **Networking** | Network-aware apps, labs, infrastructure concepts |
+| 🤖 **Automation** | Discord bots, API integrations, intelligent workflows |
+| 🚀 **Open Source** | Interesting collaborative engineering projects |
 
 </div>
 
-### 📬 Connect With Me
+---
+
+# 📬 Connect With Me
 
 <div align="center">
 
@@ -396,14 +614,39 @@ I'm open to interesting work and collaboration around:
 
 <br/><br/>
 
-📧 **muhammadbaazilsulaiman@gmail.com** &nbsp; • &nbsp; 💼 **LinkedIn: Muhammad Baazil** &nbsp; • &nbsp; 💻 **@mbs-x**
+📧 **muhammadbaazilsulaiman@gmail.com**  
+💼 **LinkedIn: Muhammad Baazil**  
+💻 **GitHub: @mbs-x**
 
-<br/>
+</div>
+
+---
+
+## 🖥️ Terminal
+
+```bash
+$ whoami
+Muhammad Baazil
+
+$ role
+AI & Software Developer | Game Developer | Full-Stack Developer
+
+$ currently-building
+SKMC Scribe
+
+$ interests
+AI ML NLP Games Web Cloud Networking Automation
+
+$ philosophy
+Build. Learn. Improve. Ship.
+```
+
+<div align="center">
 
 ### 💻 Code. 🎮 Create. 🤖 Innovate.
 
 **Thanks for visiting — let's build something that matters. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:0f2027,50:203a43,100:2c5364" width="100%" />
 
 </div>
