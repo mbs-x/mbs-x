@@ -72,49 +72,31 @@ mindset: "Build. Learn. Improve. Ship."
 ## 🧰 Technology Universe
 
 ### 👨‍💻 Programming Languages
-
 <p align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,python,js,dart&perline=8" /></p>
-
 <div align="center"><b>C++ • C# • Python • JavaScript • Dart • SQL • 8086 Assembly fundamentals</b></div>
 
 ### 🤖 Artificial Intelligence & Machine Learning
-
 <p align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8" /></p>
-
 <div align="center"><b>Artificial Intelligence • Machine Learning • NLP • LLMs • Speech-to-Text • AI Integrations • Intelligent Automation • Prompt Engineering</b></div>
 
 ### 🎮 Game Development & 3D
-
 <p align="center"><img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs,cpp&perline=8" /></p>
-
 <div align="center"><b>Unity • Unreal Engine • Blender • Gameplay Programming • Game Systems • Android Builds • 3D Workflows</b></div>
 
 ### 🌐 Web & Application Development
-
 <p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js,flutter,firebase&perline=8" /></p>
-
 <div align="center"><b>React • Node.js • Express.js • REST APIs • HTML5 • CSS3 • JavaScript • Flutter • Firebase • Responsive Interfaces</b></div>
 
 ### 🗄️ Databases & Backend
-
 <p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,nodejs&perline=8" /></p>
-
 <div align="center"><b>MySQL • MongoDB • Mongoose • SQLite • Database Design • CRUD Systems • Backend APIs • Data Modeling</b></div>
 
 ### ☁️ Cloud, DevOps & Systems
-
 <p align="center"><img src="https://skillicons.dev/icons?i=aws,git,github,linux,ubuntu,bash&perline=8" /></p>
-
 <div align="center"><b>AWS • Git • GitHub • Linux • Ubuntu • Bash • Deployment • Cloud Architecture • Serverless Concepts • CI/CD Concepts</b></div>
-
-<div align="center">
-
-`Lambda` • `Kinesis` • `DynamoDB` • `S3` • `SNS` • `CloudWatch` • `RDS` • `Aurora` • `Redshift`
-
-</div>
+<div align="center">`Lambda` • `Kinesis` • `DynamoDB` • `S3` • `SNS` • `CloudWatch` • `RDS` • `Aurora` • `Redshift`</div>
 
 ### 🌍 Networking & Automation
-
 <div align="center">
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-0078D4?style=for-the-badge)
@@ -150,14 +132,11 @@ I've worked with **binary search, stacks, queues, linked lists, trees, BSTs, AVL
 <div align="center">
 
 ### AI-Powered Clinical Documentation Platform
-
 `Healthcare AI` • `Speech-to-Text` • `NLP` • `SOAP Notes` • `Workflow Automation` • `Multilingual Systems`
 
 </div>
 
 **SKMC Scribe** is designed to help healthcare professionals spend less time on documentation and more time focusing on patients.
-
-### ✨ Main Capabilities
 
 - 🎙️ Real-time speech-to-text
 - 🌍 Multilingual transcription workflows
@@ -187,11 +166,7 @@ flowchart LR
 
 A software concept focused on **construction planning, material estimation, quality-based costing, budget optimization and supplier-oriented workflows**.
 
-<div align="center">
-
-`Flutter` • `Dart` • `Node.js` • `Express.js` • `MongoDB` • `SQLite` • `REST APIs` • `AI-Assisted Budget Optimization` • `PDF Reporting`
-
-</div>
+<div align="center">`Flutter` • `Dart` • `Node.js` • `Express.js` • `MongoDB` • `SQLite` • `REST APIs` • `AI-Assisted Budget Optimization` • `PDF Reporting`</div>
 
 ```mermaid
 flowchart TD
@@ -356,37 +331,42 @@ Networking                ███████████████░░░
 
 </div>
 
-> The snake is generated automatically from my GitHub contribution history using GitHub Actions.
-
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/mbs-x?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Profile-mbs--x-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-</a>
-<a href="https://github.com/mbs-x?tab=followers">
-  <img src="https://img.shields.io/github/followers/mbs-x?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/mbs-x?tab=repositories">
-  <img src="https://img.shields.io/github/stars/mbs-x?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=mbs-x&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=mbs-x&theme=dark&hide_border=true&border_radius=12&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub Streak" />
 
 <br/><br/>
 
-| GitHub Activity | Explore |
-|---|---|
-| 📦 **Repositories** | [View my projects →](https://github.com/mbs-x?tab=repositories) |
-| 🟩 **Contributions** | [View contribution history →](https://github.com/mbs-x) |
-| 👥 **Followers** | [View followers →](https://github.com/mbs-x?tab=followers) |
-| ⭐ **Stars & Projects** | [Browse repositories →](https://github.com/mbs-x?tab=repositories) |
+### ⚡ Live Developer Metrics
+
+<a href="https://github.com/mbs-x?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20My%20Code-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/mbs-x?tab=followers"><img src="https://img.shields.io/github/followers/mbs-x?style=for-the-badge&logo=github&label=Followers&color=1f6feb" /></a>
+<img src="https://komarev.com/ghpvc/?username=mbs-x&label=Profile%20Views&style=for-the-badge&color=6f42c1" />
+
+<br/>
+
+<a href="https://github.com/mbs-x"><img src="https://img.shields.io/badge/Contribution%20Graph-View%20Live-FF6B00?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/mbs-x?tab=repositories"><img src="https://img.shields.io/badge/Source%20Code-Public%20Repositories-181717?style=for-the-badge&logo=github" /></a>
 
 </div>
 
-> I replaced the unreliable third-party stats cards with stable GitHub/Shields-based metrics so this section stays visible instead of showing broken images.
+### 📈 Engineering Activity
+
+| Metric | Live destination |
+| :--- | :--- |
+| 🔥 **Contribution streak** | Visualized above and updates from GitHub activity |
+| 🟩 **Contribution calendar** | [Open my live contribution graph →](https://github.com/mbs-x) |
+| 📦 **Repositories & projects** | [Explore my repositories →](https://github.com/mbs-x?tab=repositories) |
+| 👥 **Developer network** | [View followers →](https://github.com/mbs-x?tab=followers) |
+| 🐍 **Contribution history** | Animated continuously by the snake above |
+
+> **Consistency • Progress • Better Code** — the analytics section is designed to grow automatically as my GitHub activity grows.
 
 ---
 
@@ -394,31 +374,35 @@ Networking                ███████████████░░░
 
 I'm open to interesting work and collaboration around:
 
-**🤖 AI & ML • 🎮 Games • 🌐 Web Apps • 🩺 Healthcare Tech • ☁️ Cloud • 🌍 Networking • 🤖 Bots & Automation • 🚀 Open Source**
+<div align="center">
 
-### 📬 Contact Me
+![AI](https://img.shields.io/badge/🤖_AI_%26_ML-111827?style=for-the-badge)
+![Games](https://img.shields.io/badge/🎮_Game_Development-111827?style=for-the-badge)
+![Web](https://img.shields.io/badge/🌐_Web_Apps-111827?style=for-the-badge)
+![Health](https://img.shields.io/badge/🩺_Healthcare_Tech-111827?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/☁️_Cloud-111827?style=for-the-badge)
+![Network](https://img.shields.io/badge/🌍_Networking-111827?style=for-the-badge)
+![Bots](https://img.shields.io/badge/🤖_Bots_%26_Automation-111827?style=for-the-badge)
+
+</div>
+
+### 📬 Connect With Me
 
 <div align="center">
 
-<a href="mailto:muhammadbaazilsulaiman@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/muhammad-baazil/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/mbs-x">
-  <img src="https://img.shields.io/badge/GitHub-View%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<a href="mailto:muhammadbaazilsulaiman@gmail.com"><img src="https://img.shields.io/badge/Gmail-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-baazil/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/mbs-x"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-📧 **muhammadbaazilsulaiman@gmail.com**  
-💼 **LinkedIn:** [linkedin.com/in/muhammad-baazil](https://www.linkedin.com/in/muhammad-baazil/)  
-💻 **GitHub:** [github.com/mbs-x](https://github.com/mbs-x)
+📧 **muhammadbaazilsulaiman@gmail.com** &nbsp; • &nbsp; 💼 **LinkedIn: Muhammad Baazil** &nbsp; • &nbsp; 💻 **@mbs-x**
+
+<br/>
 
 ### 💻 Code. 🎮 Create. 🤖 Innovate.
 
-**Thanks for visiting my profile!**
+**Thanks for visiting — let's build something that matters. 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" width="100%" />
 
