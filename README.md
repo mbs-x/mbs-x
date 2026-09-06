@@ -364,10 +364,29 @@ Networking                ███████████████░░░
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mbs-x&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbs-x&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/mbs-x?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Profile-mbs--x-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+<a href="https://github.com/mbs-x?tab=followers">
+  <img src="https://img.shields.io/github/followers/mbs-x?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/mbs-x?tab=repositories">
+  <img src="https://img.shields.io/github/stars/mbs-x?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=mbs-x&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+| GitHub Activity | Explore |
+|---|---|
+| 📦 **Repositories** | [View my projects →](https://github.com/mbs-x?tab=repositories) |
+| 🟩 **Contributions** | [View contribution history →](https://github.com/mbs-x) |
+| 👥 **Followers** | [View followers →](https://github.com/mbs-x?tab=followers) |
+| ⭐ **Stars & Projects** | [Browse repositories →](https://github.com/mbs-x?tab=repositories) |
 
 </div>
+
+> I replaced the unreliable third-party stats cards with stable GitHub/Shields-based metrics so this section stays visible instead of showing broken images.
 
 ---
 
@@ -377,7 +396,25 @@ I'm open to interesting work and collaboration around:
 
 **🤖 AI & ML • 🎮 Games • 🌐 Web Apps • 🩺 Healthcare Tech • ☁️ Cloud • 🌍 Networking • 🤖 Bots & Automation • 🚀 Open Source**
 
+### 📬 Contact Me
+
 <div align="center">
+
+<a href="mailto:muhammadbaazilsulaiman@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-baazil/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/mbs-x">
+  <img src="https://img.shields.io/badge/GitHub-View%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+📧 **muhammadbaazilsulaiman@gmail.com**  
+💼 **LinkedIn:** [linkedin.com/in/muhammad-baazil](https://www.linkedin.com/in/muhammad-baazil/)  
+💻 **GitHub:** [github.com/mbs-x](https://github.com/mbs-x)
 
 ### 💻 Code. 🎮 Create. 🤖 Innovate.
 
